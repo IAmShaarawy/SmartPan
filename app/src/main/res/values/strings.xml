@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SmartPan</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="facebook_app_id">1730705647227479</string>
+    <string name="fb_login_protocol_scheme">fb1730705647227479</string>
+
 </resources>
